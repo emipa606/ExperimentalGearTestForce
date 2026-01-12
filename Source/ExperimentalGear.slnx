@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/.github/">
+    <File Path="../.github/copilot-instructions.md" />
+  </Folder>
+  <Configurations>
+    <BuildType Name="Release" />
+  </Configurations>
+  <Project Path="ExperimentalGear.CE/ExperimentalGear.CE.csproj" Type="2c5234b0-0424-4a70-9971-d843bf68e707" />
+  <Project Path="ExperimentalGear/ExperimentalGear.csproj" Type="e4a96bf6-9672-4825-ae06-0e6f9830ecc8" />
+  <Project Path="WeaponUtility.CE/WeaponUtility.CE.csproj" Type="4a31c0c5-b163-4349-a02f-809191e0fdbf" />
+  <Project Path="WeaponUtilityII/WeaponUtilityII.csproj" Type="c8a305cc-08dd-453a-9b9d-fb7b85aa1111" />
+</Solution>

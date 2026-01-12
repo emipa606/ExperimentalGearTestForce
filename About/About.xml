@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Experimental gear Test Force (Continued)</name>
+  <packageId>Mlie.ExperimentalGearTestForce</packageId>
+  <author>小面包</author>
+  <url>https://github.com/emipa606/ExperimentalGearTestForce</url>
+  <supportedVersions>
+    <li>1.4</li>
+    <li>1.5</li>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>Ludeon.Rimworld.Biotech</packageId>
+      <displayName>Rimworld Biotech</displayName>
+      <downloadUrl>https://store.steampowered.com/app/1826140/RimWorld__Biotech/</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Ludeon.Rimworld.Biotech</li>
+    <li>CETeam.CombatExtended</li>
+  </loadAfter>
+  <description>[img]https://img.litet.net/logos/Info.png[/img]
+Update of 小面包s mod https://steamcommunity.com/sharedfiles/filedetails/?id=2935702951
+
+[img]https://img.litet.net/logos/Notice.png[/img]
+
+[table]
+    [tr][td][url=https://discord.gg/h5TY6DA][img]https://img.litet.net/logos/Discord.png[/img][/url][/td] [td][url=https://github.com/emipa606/ExperimentalGearTestForce][img]https://img.litet.net/logos/Github.png[/img][/url][/td]
+    [/tr]
+    [tr]
+        [td][img]https://img.litet.net/logos/SafeToAdd.png[/img][/td]
+        [td][img]https://img.litet.net/logos/RemoveMayWork.png[/img][/td]
+    [/tr]
+[/table]
+	
+[img]https://img.litet.net/logos/OriginalDescription.png[/img]
+[h1]Detials[/h1]
+
+[b]Armored mechanoids: Some basic work mechanoids with strengthened armor have the ability to throw grenades and release warurchins. These basic technology level mechanoids can give you advantages in the early stage
+
+Weapon under test: a kind of weapon in the industrial era, which can be regarded as the predecessor of electric weapons to some extent, and can be used as a LGIS missile launcher.
+
+Armor: a bulletproof vest that can throw random grenades, and a compound cloak that can make users invisible
+
+If you got all dlc and install [i]vanilla expanded framework[/i], you will unlock a challenging scenario, playing the role of two hungry refugees living in an abandoned county.
+
+*This is a specially built map, not a program generated.[/b]
+
+[h1]Public Files[/h1]
+
+[b]The RIVALotus military-industrial complex is a large group that undertook the recovery of battlefield ruins, post-war reconstruction and experimental weapons research and development after the third border war in 5296. Its predecessor can be traced back to the RIVALotus strategic intelligence agency in 2150.
+
+Of course, for people on the rimplanet, this is two hundred years ago.
+
+It is often said in the rimworld that there are some ancient scientific and technological creations that are easy to reverse engineer in the ancient ruins excavated somewhere[/b]
+
+[h1]Contains[/h1]
+
+[url=https://sm.ms/image/WBTi1A3oUxHNjkm][img]https://s2.loli.net/2023/02/19/WBTi1A3oUxHNjkm.png[/img][/url]
+[url=https://sm.ms/image/RBPExsd6f14GDwl][img]https://s2.loli.net/2023/02/19/RBPExsd6f14GDwl.png[/img][/url]
+[url=https://sm.ms/image/ZtPISsOUzRgT7q1][img]https://s2.loli.net/2023/02/19/ZtPISsOUzRgT7q1.png[/img][/url]
+[url=https://sm.ms/image/EploIgieubxZ8D5][img]https://s2.loli.net/2023/02/19/EploIgieubxZ8D5.png[/img][/url]
+[url=https://sm.ms/image/kfaKhJtP3W8CuzS][img]https://s2.loli.net/2023/02/19/kfaKhJtP3W8CuzS.png[/img][/url]
+[url=https://sm.ms/image/jSYIEKB7omTsfD1][img]https://s2.loli.net/2023/02/19/jSYIEKB7omTsfD1.png[/img][/url]
+[url=https://sm.ms/image/3cvkb9JB1uxd6YH][img]https://s2.loli.net/2023/02/19/3cvkb9JB1uxd6YH.png[/img][/url]
+
+compatibility：CE:everything is normal except the skills of bulletproof equipment，
+muzzle flash compatible
+xml assist TOT，float
+c#  issac
+
+[h1] More mod [/h1]
+
+[b] Preview: polarized light
+
+——Girls Frontline [/b]
+
+[img]https://img.litet.net/logos/ReportingIssues.png[/img]
+[list]
+[*] See if the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Always post your log using the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Log Uploader[/url]
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
+[/list]</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.6.0</modVersion>
+</ModMetaData>

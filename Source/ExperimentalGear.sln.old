@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{e4a96bf6-9672-4825-ae06-0e6f9830ecc8}") = "ExperimentalGear", "ExperimentalGear\ExperimentalGear.csproj", "{1021843a-0ae6-4cee-99fc-46e28b6bb818]}"
+EndProject
+Project("{c8a305cc-08dd-453a-9b9d-fb7b85aa1111}") = "WeaponUtilityII", "WeaponUtilityII\WeaponUtilityII.csproj", "{d9476855-2599-4dba-87e8-4bd9b3c904a8]}"
+EndProject
+Project("{2c5234b0-0424-4a70-9971-d843bf68e707}") = "ExperimentalGear.CE", "ExperimentalGear.CE\ExperimentalGear.CE.csproj", "{7a98844c-ef7d-4fda-bc99-c38309be9f3c]}"
+EndProject
+Project("{4a31c0c5-b163-4349-a02f-809191e0fdbf}") = "WeaponUtility.CE", "WeaponUtility.CE\WeaponUtility.CE.csproj", "{23f3a966-6479-429a-a731-f48d98957183]}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1021843a-0ae6-4cee-99fc-46e28b6bb818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1021843a-0ae6-4cee-99fc-46e28b6bb818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1021843a-0ae6-4cee-99fc-46e28b6bb818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1021843a-0ae6-4cee-99fc-46e28b6bb818}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8137d94e-4a0c-4705-bbad-6ea845d3a6ac}
+	EndGlobalSection
+EndGlobal
