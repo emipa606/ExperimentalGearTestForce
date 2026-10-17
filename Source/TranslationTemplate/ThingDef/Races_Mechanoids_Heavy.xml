@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: MRL centipede -->
+  <Mech_CentipedeMRL.label>MRL centipede</Mech_CentipedeMRL.label>
+  <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carapace and firepower makes them very effective against bunched-up static defenders，This type of centipede uses lighter armor and a dual mounted infantry magnetic rail weapon system, resulting in faster movement speed, but correspondingly, its resistance to attacks is also weakened. -->
+  <Mech_CentipedeMRL.description>Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carapace and firepower makes them very effective against bunched-up static defenders，This type of centipede uses lighter armor and a dual mounted infantry magnetic rail weapon system, resulting in faster movement speed, but correspondingly, its resistance to attacks is also weakened.</Mech_CentipedeMRL.description>
+  <!-- EN: head -->
+  <Mech_CentipedeMRL.tools.head.label>head</Mech_CentipedeMRL.tools.head.label>
+</LanguageData>

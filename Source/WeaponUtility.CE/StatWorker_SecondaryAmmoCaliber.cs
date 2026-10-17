@@ -106,7 +106,7 @@ internal class StatWorker_SecondaryAmmoCaliber : StatWorker
 
         var source = from x in GunDef(optionalReq)?.Verbs?.Where(x => x.defaultProjectile != null)
             select x.defaultProjectile;
-        return source.First().LabelCap + (source.Count() > 1 ? "(+" + (source.Count() - 1) + ")" : "");
+        return source.First().LabelCap + (source.Count() > 1 ? $"(+{source.Count() - 1})" : "");
     }
 
     private static bool ShouldDisplayAmmoSet(AmmoSetDef ammoSet)

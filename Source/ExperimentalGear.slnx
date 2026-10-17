@@ -9,4 +9,42 @@
   <Project Path="ExperimentalGear/ExperimentalGear.csproj" Type="e4a96bf6-9672-4825-ae06-0e6f9830ecc8" />
   <Project Path="WeaponUtility.CE/WeaponUtility.CE.csproj" Type="4a31c0c5-b163-4349-a02f-809191e0fdbf" />
   <Project Path="WeaponUtilityII/WeaponUtilityII.csproj" Type="c8a305cc-08dd-453a-9b9d-fb7b85aa1111" />
+  <Folder Name="/XML/About/">
+    <File Path="../About/about.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/Apparel/">
+    <File Path="../1.7/Defs/Apparel/EX_TF_Apparel.xml" />
+    <File Path="../1.7/Defs/Apparel/Rocketpack.xml" />
+  </Folder>
+  <Folder Name="/XML/Defs/RecipeDefs/">
+    <File Path="../Defs/RecipeDefs/Recipes_Production.xml" />
+  </Folder>
+  <Folder Name="/XML/Defs/DamageDef/">
+    <File Path="../Defs/DamageDef/Damage.xml" />
+  </Folder>
+  <Folder Name="/XML/Defs/SoundDef/">
+    <File Path="../Defs/SoundDef/Sounds.xml" />
+  </Folder>
+  <Folder Name="/XML/Defs/ThingDefs_Plants/">
+    <File Path="../Defs/ThingDefs_Plants/EX_TF_GreyCotton.xml" />
+  </Folder>
+  <Folder Name="/XML/Defs/Weapons/">
+    <File Path="../Defs/Weapons/TF_Gun_CompMRL.xml" />
+    <File Path="../Defs/Weapons/TF_MechGun_MRL.xml" />
+  </Folder>
+  <Folder Name="/XML/Patches/">
+    <File Path="../Patches/Human.xml" />
+    <File Path="../Patches/MuzzleFlash.xml" />
+    <File Path="../Patches/Patches.xml" />
+  </Folder>
+  <Folder Name="/XML/Defs/Items/">
+    <File Path="../Defs/Items/TF_RML.xml" />
+  </Folder>
+  <Folder Name="/XML/Languages/English/Keyed/">
+    <File Path="../Languages/English/Keyed/Text.xml" />
+  </Folder>
+  <Folder Name="/XML/Defs/ThingDefs_Races/">
+    <File Path="../Defs/ThingDefs_Races/Races_Mechanoids_Heavy.xml" />
+    <File Path="../Defs/ThingDefs_Races/Races_Mechanoids_Light.xml" />
+  </Folder>
 </Solution>

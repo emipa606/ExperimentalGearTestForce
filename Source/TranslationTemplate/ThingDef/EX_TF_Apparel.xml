@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Experimental camouflage cloak -->
+  <Apparel_TF_FlakJacket_invisibility.label>Experimental camouflage cloak</Apparel_TF_FlakJacket_invisibility.label>
+  <!-- EN: A still-in-testing invisibility device that achieves invisibility through a simple mind-sensitizing device and a flexible display surface covered on the outside. Due to the immature technology, the invisibility time is limited and the fuel battery needs to be recharged with chem fuel after use. Four sets of lightweight bulletproof armor plates are configured inside the cloak. -->
+  <Apparel_TF_FlakJacket_invisibility.description>A still-in-testing invisibility device that achieves invisibility through a simple mind-sensitizing device and a flexible display surface covered on the outside. Due to the immature technology, the invisibility time is limited and the fuel battery needs to be recharged with chem fuel after use. Four sets of lightweight bulletproof armor plates are configured inside the cloak.</Apparel_TF_FlakJacket_invisibility.description>
+  <!-- EN: invisibility device -->
+  <Apparel_TF_FlakJacket_invisibility.comps.CompApparelReloadable.chargeNoun>invisibility device</Apparel_TF_FlakJacket_invisibility.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Apparel_TF_FlakJacket_invisibility.comps.CompApparelReloadable.cooldownGerund>on cooldown</Apparel_TF_FlakJacket_invisibility.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: Invisible -->
+  <Apparel_TF_FlakJacket_invisibility.verbs.Invisible.label>Invisible</Apparel_TF_FlakJacket_invisibility.verbs.Invisible.label>
+  <!-- EN: Bulletproof Gear -->
+  <Apparel_TF_FlakVest_Grenade.label>Bulletproof Gear</Apparel_TF_FlakVest_Grenade.label>
+  <!-- EN: A set of gear worn on middle layer, incorporating a bulletproof vest and a plasteel arm guard, with a grenade pouch on the waistband. However, as it lacks labeling, it's a matter of luck as to what type of hand grenade is retrieved. -->
+  <Apparel_TF_FlakVest_Grenade.description>A set of gear worn on middle layer, incorporating a bulletproof vest and a plasteel arm guard, with a grenade pouch on the waistband. However, as it lacks labeling, it's a matter of luck as to what type of hand grenade is retrieved.</Apparel_TF_FlakVest_Grenade.description>
+  <!-- EN: Grenade -->
+  <Apparel_TF_FlakVest_Grenade.comps.CompApparelReloadable.chargeNoun>Grenade</Apparel_TF_FlakVest_Grenade.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Apparel_TF_FlakVest_Grenade.comps.CompApparelReloadable.cooldownGerund>on cooldown</Apparel_TF_FlakVest_Grenade.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: Bulletproof Gear -->
+  <Apparel_TF_FlakVest_Grenade.verbs.Verb_ThrowRandomGrenade.label>Bulletproof Gear</Apparel_TF_FlakVest_Grenade.verbs.Verb_ThrowRandomGrenade.label>
+</LanguageData>

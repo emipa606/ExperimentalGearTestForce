@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: greycotton -->
+  <Plant_TF_Cotton.label>greycotton</Plant_TF_Cotton.label>
+  <!-- EN: A genetic-modified cotton to withstand harsh environment. It can still grow at contaminated land, but as a cost, it only produces half as much as normal cotton. -->
+  <Plant_TF_Cotton.description>A genetic-modified cotton to withstand harsh environment. It can still grow at contaminated land, but as a cost, it only produces half as much as normal cotton.</Plant_TF_Cotton.description>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bombardment -->
+  <TF_throwgrenade.label>bombardment</TF_throwgrenade.label>
+  <!-- EN: throw a HE grenade towards targeted area. -->
+  <TF_throwgrenade.description>throw a HE grenade towards targeted area.</TF_throwgrenade.description>
+</LanguageData>

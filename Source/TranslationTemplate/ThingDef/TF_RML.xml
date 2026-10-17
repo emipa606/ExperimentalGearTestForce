@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Recycled mechanoid rail -->
+  <TF_MechRail.label>Recycled mechanoid rail</TF_MechRail.label>
+  <!-- EN: Rail used to launch bullets in magnetic launcher, recycled from a MRL centipede. -->
+  <TF_MechRail.description>Rail used to launch bullets in magnetic launcher, recycled from a MRL centipede.</TF_MechRail.description>
+</LanguageData>

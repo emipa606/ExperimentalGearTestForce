@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: armed agrihand -->
+  <TF_Armed_Agrihand.label>armed agrihand</TF_Armed_Agrihand.label>
+  <!-- EN: recon lifter -->
+  <TF_ArmedLifter.label>recon lifter</TF_ArmedLifter.label>
+  <!-- EN: oddjob assister -->
+  <TF_Misc.label>oddjob assister</TF_Misc.label>
+</LanguageData>

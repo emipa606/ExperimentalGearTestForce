@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: gestate MRL centipede -->
+  <build_Mech_CentipedeMRL.label>gestate MRL centipede</build_Mech_CentipedeMRL.label>
+  <!-- EN: gestate a MRL centipede -->
+  <build_Mech_CentipedeMRL.description>gestate a MRL centipede</build_Mech_CentipedeMRL.description>
+  <!-- EN: Gestating mech. -->
+  <build_Mech_CentipedeMRL.jobString>Gestating mech.</build_Mech_CentipedeMRL.jobString>
+</LanguageData>

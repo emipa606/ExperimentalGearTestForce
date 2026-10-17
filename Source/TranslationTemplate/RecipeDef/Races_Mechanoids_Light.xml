@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: gestate armed agrihand -->
+  <build_TF_Armed_Agrihand.label>gestate armed agrihand</build_TF_Armed_Agrihand.label>
+  <!-- EN: gestate an armed agrihand -->
+  <build_TF_Armed_Agrihand.description>gestate an armed agrihand</build_TF_Armed_Agrihand.description>
+  <!-- EN: Gestating mech. -->
+  <build_TF_Armed_Agrihand.jobString>Gestating mech.</build_TF_Armed_Agrihand.jobString>
+  <!-- EN: gestate an oddjob assister -->
+  <build_TF_Misc.label>gestate an oddjob assister</build_TF_Misc.label>
+  <!-- EN: gestate an oddjob assister -->
+  <build_TF_Misc.description>gestate an oddjob assister</build_TF_Misc.description>
+  <!-- EN: Gestating mech. -->
+  <build_TF_Misc.jobString>Gestating mech.</build_TF_Misc.jobString>
+  <!-- EN: gestate recon lifter -->
+  <build_TF_RL.label>gestate recon lifter</build_TF_RL.label>
+  <!-- EN: gestate a recon lifter -->
+  <build_TF_RL.description>gestate a recon lifter</build_TF_RL.description>
+  <!-- EN: Gestating mech. -->
+  <build_TF_RL.jobString>Gestating mech.</build_TF_RL.jobString>
+</LanguageData>

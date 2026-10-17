@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: HE grenade -->
+  <Proj_GrenadeHE.label>HE grenade</Proj_GrenadeHE.label>
+  <!-- EN: armed agrihand -->
+  <TF_Armed_Agrihand.label>armed agrihand</TF_Armed_Agrihand.label>
+  <!-- EN: An improved supply mechanoid derived from agrihand, its armor has been reinforced. Although it cannot carry supplies, it can throw hand grenades loaded in the cargo container in close range areas in emergency situations. When not in combat, it can also work like a gardening mechanoid. -->
+  <TF_Armed_Agrihand.description>An improved supply mechanoid derived from agrihand, its armor has been reinforced. Although it cannot carry supplies, it can throw hand grenades loaded in the cargo container in close range areas in emergency situations. When not in combat, it can also work like a gardening mechanoid.</TF_Armed_Agrihand.description>
+  <!-- EN: head -->
+  <TF_Armed_Agrihand.tools.head.label>head</TF_Armed_Agrihand.tools.head.label>
+  <!-- EN: right blade -->
+  <TF_Armed_Agrihand.tools.right_blade.label>right blade</TF_Armed_Agrihand.tools.right_blade.label>
+  <!-- EN: recon lifter -->
+  <TF_ArmedLifter.label>recon lifter</TF_ArmedLifter.label>
+  <!-- EN: The reconnaissance carrier refitted from the abandoned kcco vanguard remains with a carrier can also use the internal space to load a combat machine because of the removal of the built-in energy weapons. -->
+  <TF_ArmedLifter.description>The reconnaissance carrier refitted from the abandoned kcco vanguard remains with a carrier can also use the internal space to load a combat machine because of the removal of the built-in energy weapons.</TF_ArmedLifter.description>
+  <!-- EN: head -->
+  <TF_ArmedLifter.tools.head.label>head</TF_ArmedLifter.tools.head.label>
+  <!-- EN: oddjob assister -->
+  <TF_Misc.label>oddjob assister</TF_Misc.label>
+  <!-- EN: A small work mechanoid, designed to handle various simple tasks such as cutting bricks and rolling cigarettes. To cope with hazardous work environments, it has also been reinforced with armor and the pneumatic hammer used for crushing rocks can also play a role in close combat. -->
+  <TF_Misc.description>A small work mechanoid, designed to handle various simple tasks such as cutting bricks and rolling cigarettes. To cope with hazardous work environments, it has also been reinforced with armor and the pneumatic hammer used for crushing rocks can also play a role in close combat.</TF_Misc.description>
+  <!-- EN: head -->
+  <TF_Misc.tools.head.label>head</TF_Misc.tools.head.label>
+  <!-- EN: pneumatic hammer -->
+  <TF_Misc.tools.pneumatic_hammer.label>pneumatic hammer</TF_Misc.tools.pneumatic_hammer.label>
+</LanguageData>

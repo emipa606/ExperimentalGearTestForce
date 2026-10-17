@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: mechanoid magnetic rail launcher -->
+  <MechGun_TF_MRL.label>mechanoid magnetic rail launcher</MechGun_TF_MRL.label>
+  <!-- EN: mechanoid magnetic rail launcher -->
+  <MechGun_TF_MRL.description>mechanoid magnetic rail launcher</MechGun_TF_MRL.description>
+  <!-- EN: stock -->
+  <MechGun_TF_MRL.tools.stock.label>stock</MechGun_TF_MRL.tools.stock.label>
+  <!-- EN: barrel -->
+  <MechGun_TF_MRL.tools.barrel.label>barrel</MechGun_TF_MRL.tools.barrel.label>
+  <!-- EN: mechanoid magnetic rail launcher -->
+  <MechGun_TF_MRL.verbs.Verb_Shoot.label>mechanoid magnetic rail launcher</MechGun_TF_MRL.verbs.Verb_Shoot.label>
+</LanguageData>

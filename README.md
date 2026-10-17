@@ -1,4 +1,4 @@
-# [Experimental gear Test Force (Continued)]()
+# [Experimental gear Test Force (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3645339028)
 
 ![Image](https://img.litet.net/logos/Info.png)
 
@@ -33,13 +33,19 @@ It is often said in the rimworld that there are some ancient scientific and tech
 # Contains
 
 
-[![Image](https://s2.loli.net/2023/02/19/WBTi1A3oUxHNjkm.png)](https://sm.ms/image/WBTi1A3oUxHNjkm)
-[![Image](https://s2.loli.net/2023/02/19/RBPExsd6f14GDwl.png)](https://sm.ms/image/RBPExsd6f14GDwl)
-[![Image](https://s2.loli.net/2023/02/19/ZtPISsOUzRgT7q1.png)](https://sm.ms/image/ZtPISsOUzRgT7q1)
-[![Image](https://s2.loli.net/2023/02/19/EploIgieubxZ8D5.png)](https://sm.ms/image/EploIgieubxZ8D5)
-[![Image](https://s2.loli.net/2023/02/19/kfaKhJtP3W8CuzS.png)](https://sm.ms/image/kfaKhJtP3W8CuzS)
-[![Image](https://s2.loli.net/2023/02/19/jSYIEKB7omTsfD1.png)](https://sm.ms/image/jSYIEKB7omTsfD1)
-[![Image](https://s2.loli.net/2023/02/19/3cvkb9JB1uxd6YH.png)](https://sm.ms/image/3cvkb9JB1uxd6YH)
+![Image](https://img.litet.net/WBTi1A3oUxHNjkm.png)
+
+![Image](https://img.litet.net/RBPExsd6f14GDwl.png)
+
+![Image](https://img.litet.net/ZtPISsOUzRgT7q1.png)
+
+![Image](https://img.litet.net/EploIgieubxZ8D5.png)
+
+![Image](https://img.litet.net/kfaKhJtP3W8CuzS.png)
+
+![Image](https://img.litet.net/jSYIEKB7omTsfD1.png)
+
+![Image](https://img.litet.net/3cvkb9JB1uxd6YH.png)
 
 compatibility：CE:everything is normal except the skills of bulletproof equipment，
 muzzle flash compatible
@@ -65,4 +71,6 @@ c#  issac
 -  If you have the solution for a problem, please post it to the GitHub repository.
 -  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
+[![Image](https://img.shields.io/github/v/release/emipa606/ExperimentalGearTestForce?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3645339028) | industrial era, military
